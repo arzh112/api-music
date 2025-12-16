@@ -3,3 +3,6 @@ node_modules
 .nvmrc
 README.md
 Dockerfile
+.gitignore
+.github
+.dockerignore
